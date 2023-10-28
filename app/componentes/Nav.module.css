@@ -1,0 +1,17 @@
+.nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 3rem;
+    width: 100%;
+    border-bottom: solid 1px white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.link{
+    padding-right: 2rem;
+    color: white;
+    text-decoration: none;
+    font-size: 23px;
+}

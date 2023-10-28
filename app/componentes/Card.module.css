@@ -1,0 +1,9 @@
+.card{
+    border: solid 2px white;
+    padding-left: 3rem;
+    border-radius: 15px;
+    width: 70%;
+}
+.card h2:first-of-type{
+    text-decoration: underline;
+}
